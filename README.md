@@ -1,6 +1,15 @@
 # Computer Aided Design I BAS-META – Bridge
 *Introduces the use of parametric Computer-Aided Design (CAD) software to design parts working from engineering sketches and/or prototypes.*
 
+Quick playlist of modeling CAD productions:
+[![](https://markdown-videos-api.jorgenkh.no/youtube/jVnDqnkEn_Q?feature=shared/)](https://youtu.be/jVnDqnkEn_Q?feature=shared)
+
+For Edcuational Purpose Review Only: 
+
+Module Milestone: link --> https://github.com/marysaray/ComputerAidedDesignI/issues/1
+
+Module Milestone: link --> https://github.com/marysaray/ComputerAidedDesignI/issues/2
+
 System requirements for Autodesk Fusion https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/System-requirements-for-Autodesk-Fusion-360.html#:~:text=System%20requirements%20for%20Autodesk%20Fusion%20360%20%20,GB%20of%20storage%20%204%20more%20rows%20
 
 Software or Browser Access
