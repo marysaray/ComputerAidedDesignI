@@ -1,8 +1,9 @@
 # Computer Aided Design I BAS-META – Bridge
 *Introduces the use of parametric Computer-Aided Design (CAD) software to design parts working from engineering sketches and/or prototypes.*
 
+![Youtube](https://github.com/user-attachments/assets/71a600fd-7a58-4a0d-bfea-4c2f9ad2cd53)
+
 Quick playlist of modeling CAD productions:
-[![](https://markdown-videos-api.jorgenkh.no/youtube/jVnDqnkEn_Q?feature=shared/)](https://youtu.be/jVnDqnkEn_Q?feature=shared)
 https://youtube.com/playlist?list=PLNZsxh8ZoXYUe5zWPU2TCSnzDfl5M7WE9&feature=shared
 
 For Edcuational Purpose Review Only: 
