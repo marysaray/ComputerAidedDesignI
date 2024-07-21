@@ -3,6 +3,7 @@
 
 Quick playlist of modeling CAD productions:
 [![](https://markdown-videos-api.jorgenkh.no/youtube/jVnDqnkEn_Q?feature=shared/)](https://youtu.be/jVnDqnkEn_Q?feature=shared)
+https://youtube.com/playlist?list=PLNZsxh8ZoXYUe5zWPU2TCSnzDfl5M7WE9&feature=shared
 
 For Edcuational Purpose Review Only: 
 
