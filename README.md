@@ -12,6 +12,8 @@ Module Milestone: link --> https://github.com/marysaray/ComputerAidedDesignI/iss
 
 Module Milestone: link --> https://github.com/marysaray/ComputerAidedDesignI/issues/2
 
+Module Milestone: link --> https://github.com/marysaray/ComputerAidedDesignI/issues/3
+
 System requirements for Autodesk Fusion https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/System-requirements-for-Autodesk-Fusion-360.html#:~:text=System%20requirements%20for%20Autodesk%20Fusion%20360%20%20,GB%20of%20storage%20%204%20more%20rows%20
 
 Software or Browser Access
