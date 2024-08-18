@@ -16,7 +16,8 @@ https://youtube.com/playlist?list=PLNZsxh8ZoXYUe5zWPU2TCSnzDfl5M7WE9&feature=sha
 
 Technical Drawing:
 
-![SarayMaryLab6Su24](https://github.com/user-attachments/assets/ca2a157f-adec-4e93-9b82-03d2a05ec2bb)
+![SarayMaryLab6Su24](https://github.com/user-attachments/assets/2af37e26-7f23-4787-a551-4f5463eb476e)
+
 
 Original Model:
 ![1-2-3block-bottom](https://github.com/user-attachments/assets/fb624046-0136-4f2d-b542-d425a7af3ec4)
