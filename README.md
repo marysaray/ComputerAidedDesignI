@@ -10,6 +10,19 @@ https://youtube.com/playlist?list=PLNZsxh8ZoXYUe5zWPU2TCSnzDfl5M7WE9&feature=sha
 
 ![Youtube](https://github.com/user-attachments/assets/71a600fd-7a58-4a0d-bfea-4c2f9ad2cd53)
 
+1-2-3 Block Lab https://github.com/marysaray/ComputerAidedDesignI/issues/6 Modeling from Image: 
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/zYT3AQS1oy4/)](https://youtu.be/zYT3AQS1oy4)
+
+Technical Drawing:
+
+![SarayMaryLab6Su24](https://github.com/user-attachments/assets/ca2a157f-adec-4e93-9b82-03d2a05ec2bb)
+
+Original Model:
+![1-2-3block-bottom](https://github.com/user-attachments/assets/fb624046-0136-4f2d-b542-d425a7af3ec4)
+![1-2-3block-front](https://github.com/user-attachments/assets/d6267016-4dcd-468f-a91c-a65b90f38129)
+![1-2-3block-left](https://github.com/user-attachments/assets/76862144-f713-45f7-8a2e-b2da9063ec21)
+
 System requirements for Autodesk Fusion https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/System-requirements-for-Autodesk-Fusion-360.html#:~:text=System%20requirements%20for%20Autodesk%20Fusion%20360%20%20,GB%20of%20storage%20%204%20more%20rows%20
 
 Software or Browser Access
